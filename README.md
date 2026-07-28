@@ -1,6 +1,6 @@
 # Orhan Kutay Bozkurt | Full Stack Developer
 
-I am a 3rd-year Computer Engineering student at Pamukkale University, focused on transforming ideas into scalable, fast, and reliable digital products. With a strong emphasis on proper architecture, clean code, and high performance, I manage the process from problem to solution and develop digital products that create lasting value. I am particularly interested in Fintech and scalable systems.
+I am a 4th-year Computer Engineering student at Pamukkale University, focused on transforming ideas into scalable, fast, and reliable digital products. With a strong emphasis on proper architecture, clean code, and high performance, I manage the process from problem to solution and develop digital products that create lasting value. I am particularly interested in Fintech and scalable systems.
 
 You can view my detailed portfolio and works at [orhankutaybozkurt.com](https://orhankutaybozkurt.com).
 
