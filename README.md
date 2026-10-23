@@ -2,7 +2,7 @@
 
 ### Full Stack Developer
 
-I build reliable, scalable, and practical digital products for businesses and startups.
+I design and build practical, scalable digital products for startups and businesses, with a focus on clean architecture, performance, and user experience.
 
 <p align="center">
   <a href="https://orhankutaybozkurt.com">Portfolio</a> ·
@@ -10,6 +10,12 @@ I build reliable, scalable, and practical digital products for businesses and st
   <a href="https://www.linkedin.com/in/orhankutaybozkurt">LinkedIn</a> ·
   <a href="mailto:kutaybozkurt1436@gmail.com">Email</a>
 </p>
+
+## About Me
+
+- Full Stack Developer with hands-on experience building web applications, internal tools, and product-focused platforms.
+- Comfortable across frontend, backend, product thinking, and system-level problem solving.
+- Passionate about turning ideas into reliable software that creates real business value.
 
 ## Current
 
@@ -20,23 +26,53 @@ I build reliable, scalable, and practical digital products for businesses and st
 ## Experience
 
 - IT Department Intern @ HAUS Centrifuge Technologies — Jul 2025 - Aug 2025
-  Built a CRM system from scratch with PHP/Laravel and supported internal operational workflows.
+  - Built a CRM system from scratch using PHP/Laravel.
+  - Improved internal operational workflows and team productivity.
 
 ## Featured Work
 
-- [PortGuard](https://github.com/okutaybozkurt/PortGuard) — macOS MenuBar utility for monitoring ports, memory, and active processes.
-- RandevUpp — Scheduling and business management platform built for appointment-focused operations.
+- [PortGuard](https://github.com/okutaybozkurt/PortGuard) — macOS MenuBar utility for monitoring active ports, system memory, and running processes.
+- RandevUpp — Scheduling and business management platform built for appointment-driven operations.
 - [Matris Matematik Evi](https://matrismatematikevi.com) — Digital transformation project for an education brand.
 - [ECS Kaan Elektronik](https://ecskaanelektronik.com) — Corporate website modernization and digital platform development.
 - IKA CRM System — Internal production CRM focused on operational visibility and process management.
 
-## Skills
+## Technical Stack
 
-- Frontend: JavaScript, TypeScript, React, Next.js
-- Backend: PHP, Laravel, Python, Django
-- Product & App: Swift, SwiftUI
-- Data & Architecture: MySQL, PostgreSQL, REST APIs, system design
-- Tools: Git, GitHub, Docker, Linux, Figma
+### Frontend
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- HTML / CSS
+
+### Backend
+- PHP
+- Laravel
+- Python
+- Django
+- REST APIs
+
+### Product & App
+- Swift
+- SwiftUI
+
+### Data & Infrastructure
+- MySQL
+- PostgreSQL
+- Docker
+- Linux
+- Git / GitHub
+
+### Design & Workflow
+- Figma
+- System design
+- Clean architecture
+- Product thinking
+
+## What I Care About
+
+I enjoy building software that is not only functional, but also dependable, maintainable, and useful in the real world. I value clear communication, strong architecture, and products that solve meaningful problems.
 
 ## Let's Connect
 
