@@ -2,7 +2,9 @@
 
 ### Full Stack Developer
 
-I build practical digital products for businesses and startups — from web applications to internal systems and operational tools.
+I build practical digital products for businesses and startups — from web applications to internal systems, app experiences, and growth-focused digital products.
+
+My work combines product thinking, business value, and scalable engineering, with a strong focus on app development, SEO and GEO strategies, and performance-driven solutions.
 
 <p align="center">
   <a href="https://orhankutaybozkurt.com">Portfolio</a> ·
@@ -20,7 +22,9 @@ I build practical digital products for businesses and startups — from web appl
 ## What I Do
 
 - Full stack web application development
+- App development for business and user-facing products
 - Business systems, CRM, and internal workflow tools
+- SEO and GEO optimization strategies
 - Frontend and backend product development
 - Scalable, maintainable software for real business needs
 
