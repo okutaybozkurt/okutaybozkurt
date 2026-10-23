@@ -1,14 +1,22 @@
 # Orhan Kutay Bozkurt
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Product-minded+Engineer;Building+reliable+digital+products" alt="typing banner" />
+</div>
+
+<p align="center">
+  <a href="https://orhankutaybozkurt.com"><img src="https://img.shields.io/badge/Portfolio-orhankutaybozkurt.com-1F6FEB?style=flat-square&logo=firefox-browser" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/orhankutaybozkurt"><img src="https://img.shields.io/badge/LinkedIn-orhankutaybozkurt-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:kutaybozkurt1436@gmail.com"><img src="https://img.shields.io/badge/Email-kutaybozkurt1436%40gmail.com-EA4335?style=flat-square&logo=gmail" alt="Email" /></a>
+</p>
+
 Full Stack Developer focused on building clean, reliable, and scalable digital products.
 
 I am a 4th-year Computer Engineering student at Pamukkale University, passionate about software architecture, product thinking, and turning ideas into practical systems.
 
-You can explore my portfolio and selected work at [orhankutaybozkurt.com](https://orhankutaybozkurt.com).
-
 ## Current
 
-- Full Stack Developer @ [LokaLabs](https://github.com/LokaLabs) *(2025 - Present)*
+- Full Stack Developer @ [LokaLabs](https://github.com/LokaLabs) *(2026 - Present)*
   Working across product development, platform thinking, and scalable web solutions within the LokaLabs ecosystem.
 
 ## Experience
