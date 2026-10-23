@@ -2,7 +2,7 @@
 
 ### Full Stack Developer
 
-I design and build practical, scalable digital products for startups and businesses, with a focus on clean architecture, performance, and user experience.
+I build practical digital products for businesses and startups — from web applications to internal systems and operational tools.
 
 <p align="center">
   <a href="https://orhankutaybozkurt.com">Portfolio</a> ·
@@ -11,68 +11,30 @@ I design and build practical, scalable digital products for startups and busines
   <a href="mailto:kutaybozkurt1436@gmail.com">Email</a>
 </p>
 
-## About Me
-
-- Full Stack Developer with hands-on experience building web applications, internal tools, and product-focused platforms.
-- Comfortable across frontend, backend, product thinking, and system-level problem solving.
-- Passionate about turning ideas into reliable software that creates real business value.
-
 ## Current
 
-- Full Stack Developer @ [LokaLabs](https://github.com/LokaLabs) — 2026 - Present
-- Full Stack Developer @ [Vireliosoft](https://vireliosoft.com) — Aug 2025 - Present
-- Software Developer @ Technolobal Bilişim — Apr 2025 - Present
+- Full Stack Developer at [LokaLabs](https://github.com/LokaLabs) — building product-oriented and internal systems.
+- Full Stack Developer at [Vireliosoft](https://vireliosoft.com) — developing business-facing digital solutions.
+- Software Developer at Technolobal Bilişim — working on software projects and practical business tools.
 
-## Experience
+## What I Do
 
-- IT Department Intern @ HAUS Centrifuge Technologies — Jul 2025 - Aug 2025
-  - Built a CRM system from scratch using PHP/Laravel.
-  - Improved internal operational workflows and team productivity.
+- Full stack web application development
+- Business systems, CRM, and internal workflow tools
+- Frontend and backend product development
+- Scalable, maintainable software for real business needs
 
 ## Featured Work
 
-- [PortGuard](https://github.com/okutaybozkurt/PortGuard) — macOS MenuBar utility for monitoring active ports, system memory, and running processes.
-- RandevUpp — Scheduling and business management platform built for appointment-driven operations.
-- [Matris Matematik Evi](https://matrismatematikevi.com) — Digital transformation project for an education brand.
-- [ECS Kaan Elektronik](https://ecskaanelektronik.com) — Corporate website modernization and digital platform development.
-- IKA CRM System — Internal production CRM focused on operational visibility and process management.
+- [PortGuard](https://github.com/okutaybozkurt/PortGuard) — macOS utility for monitoring ports, memory, and active processes.
+- RandevUpp — scheduling and business management platform.
+- [Matris Matematik Evi](https://matrismatematikevi.com) — digital transformation and brand platform.
+- [ECS Kaan Elektronik](https://ecskaanelektronik.com) — corporate website modernization.
+- IKA CRM System — internal operations and visibility platform.
 
-## Technical Stack
+## Tech Stack
 
-### Frontend
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- HTML / CSS
-
-### Backend
-- PHP
-- Laravel
-- Python
-- Django
-- REST APIs
-
-### Product & App
-- Swift
-- SwiftUI
-
-### Data & Infrastructure
-- MySQL
-- PostgreSQL
-- Docker
-- Linux
-- Git / GitHub
-
-### Design & Workflow
-- Figma
-- System design
-- Clean architecture
-- Product thinking
-
-## What I Care About
-
-I enjoy building software that is not only functional, but also dependable, maintainable, and useful in the real world. I value clear communication, strong architecture, and products that solve meaningful problems.
+JavaScript · TypeScript · React · Next.js · PHP · Laravel · Python · Django · MySQL · PostgreSQL · Swift · SwiftUI · Docker · GitHub · Figma
 
 ## Let's Connect
 
