@@ -1,7 +1,64 @@
 # Orhan Kutay Bozkurt
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Product-minded+Engineer;Building+reliable+digital+products" alt="typing banner" />
+  <svg width="880" height="200" viewBox="0 0 880 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Full Stack Developer and Product-minded Engineer">
+    <defs>
+      <linearGradient id="bgGrad" x1="0" y1="0" x2="880" y2="200" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#F5F5F7"/>
+        <stop offset="1" stop-color="#EAEAF0"/>
+      </linearGradient>
+      <linearGradient id="glassGrad" x1="120" y1="12" x2="740" y2="180" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#FFFFFF" stop-opacity="0.9"/>
+        <stop offset="1" stop-color="#F2F2F7" stop-opacity="0.9"/>
+      </linearGradient>
+      <linearGradient id="textGrad" x1="200" y1="0" x2="680" y2="150" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#1D1D1F"/>
+        <stop offset="0.55" stop-color="#3A3A3C"/>
+        <stop offset="1" stop-color="#6E6E73"/>
+      </linearGradient>
+      <radialGradient id="orbA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 45) rotate(90) scale(100 100)">
+        <stop stop-color="#5AC8FA" stop-opacity="0.32"/>
+        <stop offset="1" stop-color="#5AC8FA" stop-opacity="0"/>
+      </radialGradient>
+      <radialGradient id="orbB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(720 130) rotate(90) scale(120 140)">
+        <stop stop-color="#C7C7CC" stop-opacity="0.34"/>
+        <stop offset="1" stop-color="#C7C7CC" stop-opacity="0"/>
+      </radialGradient>
+      <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+        <feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#7A7A80" flood-opacity="0.12"/>
+      </filter>
+    </defs>
+
+    <rect width="880" height="200" rx="36" fill="url(#bgGrad)"/>
+
+    <circle cx="160" cy="45" r="110" fill="url(#orbA)"/>
+    <circle cx="720" cy="130" r="130" fill="url(#orbB)"/>
+
+    <g filter="url(#shadow)">
+      <rect x="90" y="28" width="700" height="144" rx="30" fill="url(#glassGrad)" stroke="#FFFFFF" stroke-opacity="0.8"/>
+    </g>
+
+    <g opacity="0.7">
+      <circle cx="150" cy="115" r="4" fill="#8E8E93">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="168" cy="115" r="4" fill="#8E8E93">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.8s" begin="0.3s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="186" cy="115" r="4" fill="#8E8E93">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.8s" begin="0.6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <text x="440" y="98" text-anchor="middle" font-size="35" font-weight="700" letter-spacing="1.5" fill="url(#textGrad)" font-family="SF Pro Display, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+      FULL STACK DEVELOPER
+      <animate attributeName="opacity" values="0.78;1;0.78" dur="3.5s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="440" y="128" text-anchor="middle" font-size="13" font-weight="500" letter-spacing="4" fill="#6E6E73" font-family="SF Pro Display, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+      PRODUCT-MINDED ENGINEER • BUILDING RELIABLE DIGITAL EXPERIENCES
+    </text>
+  </svg>
 </div>
 
 <p align="center">
