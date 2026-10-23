@@ -1,78 +1,48 @@
 # Orhan Kutay Bozkurt
 
 <div align="center">
-  <svg width="920" height="170" viewBox="0 0 920 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Full Stack Developer and Product-minded Engineer">
-    <defs>
-      <linearGradient id="panel" x1="0" y1="0" x2="920" y2="170" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#F8F8F9"/>
-        <stop offset="1" stop-color="#EEF1F5"/>
-      </linearGradient>
-      <linearGradient id="strokeGrad" x1="180" y1="20" x2="740" y2="150" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#E5E7EC"/>
-        <stop offset="1" stop-color="#F7F8FA"/>
-      </linearGradient>
-      <linearGradient id="textGrad" x1="150" y1="0" x2="700" y2="140" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#101114"/>
-        <stop offset="0.5" stop-color="#2C2F36"/>
-        <stop offset="1" stop-color="#70737A"/>
-      </linearGradient>
-      <radialGradient id="softGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(250 35) rotate(90) scale(90 150)">
-        <stop stop-color="#7CC8FF" stop-opacity="0.14"/>
-        <stop offset="1" stop-color="#7CC8FF" stop-opacity="0"/>
-      </radialGradient>
-      <radialGradient id="softGlow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(720 132) rotate(90) scale(100 180)">
-        <stop stop-color="#C8CCD4" stop-opacity="0.14"/>
-        <stop offset="1" stop-color="#C8CCD4" stop-opacity="0"/>
-      </radialGradient>
-    </defs>
-
-    <rect width="920" height="170" rx="32" fill="url(#panel)"/>
-    <circle cx="250" cy="38" r="90" fill="url(#softGlow)"/>
-    <circle cx="720" cy="128" r="104" fill="url(#softGlow2)"/>
-    <rect x="110" y="24" width="700" height="122" rx="26" fill="#F9FAFB" fill-opacity="0.85" stroke="url(#strokeGrad)"/>
-
-    <text x="460" y="82" text-anchor="middle" font-size="30" font-weight="700" letter-spacing="1.3" fill="url(#textGrad)" font-family="SF Pro Display, SF Pro Text, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
-      FULL STACK DEVELOPER
-    </text>
-
-    <text x="460" y="108" text-anchor="middle" font-size="12" font-weight="500" letter-spacing="4" fill="#6A6F76" font-family="SF Pro Display, SF Pro Text, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
-      PRODUCT-MINDED ENGINEER • BUILDING RELIABLE DIGITAL SYSTEMS
-    </text>
-
-    <rect x="332" y="122" width="256" height="1.5" rx="0.75" fill="#D7DCE4"/>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=0F172A&center=true&vCenter=true&multiline=true&width=900&lines=FULL+STACK+DEVELOPER;PRODUCT-MINDED+ENGINEER;BUILDING+RELIABLE+DIGITAL+SYSTEMS" alt="Typing SVG" />
 </div>
 
-Full Stack Developer focused on building clean, reliable, and scalable digital products.
+<div align="center">
+  <img width="920" height="170" src="https://raw.githubusercontent.com/okutaybozkurt/okutaybozkurt/main/assets/profile-banner.svg" alt="Profile banner" />
+</div>
 
-I am a 4th-year Computer Engineering student at Pamukkale University, passionate about software architecture, product thinking, and turning ideas into practical systems.
+<p align="center">
+  <a href="mailto:kutaybozkurt1436@gmail.com">Email</a> ·
+  <a href="https://github.com/okutaybozkurt">GitHub</a>
+</p>
+
+I design and build clean, scalable digital products with a strong focus on real-world reliability, maintainability, and user value.
+
+I am a 4th-year Computer Engineering student at Pamukkale University, and I enjoy working across product thinking, architecture, and implementation.
 
 ## Current
 
-- Full Stack Developer @ [LokaLabs](https://github.com/LokaLabs) *(2026 - Present)*
-  Working across product development, platform thinking, and scalable web solutions within the LokaLabs ecosystem.
+- Full Stack Developer @ [LokaLabs](https://github.com/LokaLabs) — 2026 - Present
+  Building product-focused systems and scalable web solutions across the ecosystem.
 
 ## Experience
 
-- Full Stack Developer @ [Vireliosoft](https://vireliosoft.com) *(Aug 2025 - Present)*
-  Building full-stack solutions while contributing to customer relations, sales strategy, and brand development.
+- Full Stack Developer @ [Vireliosoft](https://vireliosoft.com) — Aug 2025 - Present
+  Developing full-stack solutions while contributing to customer-facing product work and business strategy.
 
-- Software Developer @ Technolobal Bilişim *(Apr 2025 - Present)*
-  Developing desktop applications, corporate websites, and backend systems for diverse digital products.
+- Software Developer @ Technolobal Bilişim — Apr 2025 - Present
+  Building desktop apps, corporate websites, and backend systems for business products.
 
-- IT Department (Stajyer) @ HAUS Centrifuge Technologies *(Haz 2026 - Ağu 2026)*
-  Worked in the IT department as an intern, supporting internal digital processes and contributing to business-oriented software solutions.
+- IT Department Intern @ HAUS Centrifuge Technologies — Jul 2025 - Aug 2025
+  Built a web-based CRM from scratch using PHP/Laravel, covering analysis, implementation, and presentation.
 
-- IT Department Intern @ HAUS Centrifuge Technologies *(Jul 2025 - Aug 2025)*
-  Built a web-based CRM system from scratch using PHP/Laravel, covering requirements analysis, implementation, and presentation.
+- IT Department Intern @ HAUS Centrifuge Technologies — Haz 2026 - Ağu 2026
+  Worked in the IT department to support internal digital workflows and business-oriented software processes.
 
 ## Featured Work
 
-- [PortGuard](https://github.com/okutaybozkurt/PortGuard) — Open-source macOS MenuBar utility built with Swift and SwiftUI to help developers manage resources, tools, and daily workflows quickly.
-- RandevUpp — Appointment-focused business management platform with smart scheduling, ticket management, and financial tracking.
-- [Matris Matematik Evi](https://matrismatematikevi.com) — Digital transformation project for an education brand, combining a modern web experience with a Django-based admin system.
-- [ECS Kaan Elektronik](https://ecskaanelektronik.com) — Corporate digital transformation project featuring branding, SEO, and a custom management platform.
-- IKA CRM System — Custom CRM architecture for HAUS Centrifuge Technologies, built for production-heavy operations and role-based access control.
+- [PortGuard](https://github.com/okutaybozkurt/PortGuard) — macOS MenuBar utility for monitoring ports, memory usage, and process management.
+- RandevUpp — Appointment and business management platform with scheduling, ticketing, and financial tracking.
+- [Matris Matematik Evi](https://matrismatematikevi.com) — Digital transformation project for an education brand with a modern web experience and Django admin system.
+- [ECS Kaan Elektronik](https://ecskaanelektronik.com) — Corporate brand and digital platform modernization.
+- IKA CRM System — Custom CRM architecture built for production-heavy operations and role-based access control.
 
 ## Skills
 
@@ -82,6 +52,13 @@ I am a 4th-year Computer Engineering student at Pamukkale University, passionate
 - Databases & Architecture: MySQL, PostgreSQL, REST APIs, system design
 - Tools: Git, GitHub, Docker, Linux, Figma
 
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=okutaybozkurt&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+</div>
+
 ## Let's Connect
 
 - Email: [kutaybozkurt1436@gmail.com](mailto:kutaybozkurt1436@gmail.com)
+- GitHub: [@okutaybozkurt](https://github.com/okutaybozkurt)
